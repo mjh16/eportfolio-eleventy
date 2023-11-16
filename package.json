@@ -1,15 +1,22 @@
 {
-  "name": "eportfolio-eleventy",
-  "version": "1.0.0",
-  "description": "Source Code for ePortfolio",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
-  }
+    "name": "eportfolio-eleventy",
+    "version": "1.0.0",
+    "description": "Source Code for ePortfolio",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx eleventy",
+        "start": "npx eleventy --serve"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@11ty/eleventy": "^2.0.1",
+        "markdown-it-eleventy-img": "^0.10.1"
+    },
+    "dependencies": {
+        "@11ty/eleventy-img": "^3.1.0",
+        "markdown-it-footnote": "^3.0.3",
+        "markdown-it-ib": "^1.0.2"
+    }
 }

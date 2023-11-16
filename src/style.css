@@ -1,0 +1,217 @@
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 14pt;
+    font-family: "freight-display-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+/*
+colors:
+text = #27251f
+link, accent = #348888
+emphasis = #fa7f08
+a visited, underline = #f24405
+hover, focus = #22babb
+hover variation, nav = #9ef8ee
+*/
+
+h1 {
+    font-family: "swear-display", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h2,
+h3 {
+    font-family: "swear-display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body > * {
+    --main-text-color: hsl(45 11% 14%);
+    --dark-teal: hsl(180 44% 36%); /*active link, subtitle*/
+    --teal: hsl(180 69% 43%); /*h2*/
+    --light-teal: hsl(180 86% 79%); /*link hover*/
+    --light-orange: hsl(29, 96%, 50%); /*b H1 underline*/
+    --dark-orange: hsl(15 95% 48%); /*visited link*/
+}
+
+body {
+    background-color: white;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    color: var(--main-text-color);
+    margin-left: 1%;
+}
+
+h1 {
+    font-size: 1.75rem;
+    text-align: left;
+}
+
+h2 {
+    color: var(--teal);
+    font-size: 1.25rem;
+    margin: 1em auto 0.25em;
+}
+
+h3 {
+    color: var(--main-text-color);
+    font-size: 1.1rem;
+    margin-left: 0.3em;
+}
+
+p > b {
+    color: var(--dark-orange);
+}
+
+header nav {
+    font-weight: 400;
+    font-style: normal;
+}
+
+nav {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-family: "swear-display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+nav a,
+a:visited,
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 1rem 1.5rem;
+}
+
+nav li {
+    font-size: 1em;
+    display: inline;
+    margin: 0.5em;
+    align-self: flex-end;
+}
+
+nav p {
+    color: var(--dark-teal);
+    font-size: 0.8em;
+    margin: 0.3em;
+    text-align: center;
+}
+
+nav h1 {
+    font-size: 2.9em;
+    font-weight: 500;
+    margin: 0 0 0 0.2rem;
+    text-decoration-line: none;
+    color: var(--main-text-color);
+}
+
+nav h1:hover {
+    color: var(--light-orange);
+}
+
+nav li:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--light-teal);
+    text-decoration-thickness: 0.15em;
+    text-underline-offset: 0.25em;
+}
+
+.name-header {
+    display: inline;
+}
+
+.name-header p a:hover {
+    color: var(--light-orange);
+}
+
+main a:link {
+    color: var(--dark-teal);
+}
+
+main a:visited {
+    color: var(--dark-orange);
+}
+
+main a:hover,
+footer a:hover {
+    color: var(--light-orange);
+}
+
+main li {
+    line-height: 1.25em;
+}
+
+main ul {
+    margin: 0 auto 0.5em;
+}
+
+main {
+    margin: auto 0 2rem 0.5rem;
+}
+
+main p {
+    margin: auto 1em 0.5rem 0.5em;
+}
+
+main img {
+    max-width: 38vw;
+    max-height: 65vh;
+    object-fit: scale-down;
+    margin: 0;
+}
+
+main picture {
+    float: right;
+}
+
+footer {
+    font-size: 14px;
+    margin-bottom: 1em;
+}
+footer ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+footer li {
+    margin: 0 2em;
+    display: inline-block;
+    text-align: center;
+}
+
+footer p {
+    margin: 0.5em;
+    text-decoration: none;
+}
+
+footer a,
+a:link,
+script {
+    text-decoration: none;
+    color: black;
+}
+
+.page-title {
+    margin: 0.5em auto 0.5em;
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: none;
+}

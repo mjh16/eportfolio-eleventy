@@ -1,0 +1,3 @@
+![A photo of Michael. He is turned to face the camera and is wearing blue rimmed glasses and a dark grey polo shirt.](src/img/michael.jpg "Michael!")
+
+{% image "src/img/young_michael.jpg", "A photo of Michael as a toddler in front of an Apple IIe computer. He is turned to his left to face the camera and is wearing a pair of overalls.", "(min-width: 30em), 50vw, 100vw" %}
