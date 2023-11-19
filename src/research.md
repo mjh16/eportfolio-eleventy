@@ -13,10 +13,6 @@ My research examines historiographies of rhetoric and composition using digital 
 
 ## Recent Publications and Presentations
 
-Promises and Perils
+Design thinking and Technical and Professional Communication. Co-Authored with Jessi Thomsen. Forthcoming in _Programamtic Perspectices_
 
-Design thinking and TPC - willing to fail, reflection and intervention.
-
-CCCCs talk - DT and composition pedagogy - move beyond the easy to better
-
-## Featured Research
+Promises and Perils. Co-Authored with Tarez Samra Graba. Forthcoming in _Rhetorica in Motion II_

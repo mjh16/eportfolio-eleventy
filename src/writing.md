@@ -2,4 +2,4 @@
 layout: page.njk
 title: Writing
 ---
-This will be a space to share creative work.
+In addition to my teaching, research, and service, I also writing creative nonfiction and work with multimodal and experimental nonfiction genres. This will be a place to showcase recent work and publications.
