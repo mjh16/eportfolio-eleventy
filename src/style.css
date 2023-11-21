@@ -99,6 +99,7 @@ a:link {
 nav ul {
     list-style-type: none;
     margin: 1rem 1.5rem;
+    text-align: right;
 }
 
 nav li {
@@ -112,7 +113,7 @@ nav p {
     color: var(--dark-teal);
     font-size: 0.8em;
     margin: 0.3em;
-    text-align: center;
+    text-align: left;
 }
 
 nav h1 {
