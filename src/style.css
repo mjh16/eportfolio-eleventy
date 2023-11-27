@@ -98,7 +98,7 @@ a:link {
 
 nav ul {
     list-style-type: none;
-    margin: 1rem 1.5rem;
+    margin: 1rem auto 0;
     text-align: right;
 }
 
@@ -114,6 +114,7 @@ nav p {
     font-size: 0.8em;
     margin: 0.3em;
     text-align: left;
+    align-items: flex-start;
 }
 
 nav h1 {
@@ -176,7 +177,8 @@ main img {
     max-width: 40vw;
     max-height: 60vh;
     object-fit: scale-down;
-    margin: 0;
+    margin: 0 0 0 1em;
+    padding: 0;
 }
 
 main picture {
