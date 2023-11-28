@@ -6,6 +6,7 @@ const markdownItEleventyImg = require("markdown-it-eleventy-img");
 module.exports = function (eleventyConfig) {
     // Copy `src/style.css` to `_site/style.css`
     eleventyConfig.addPassthroughCopy("src/style.css");
+    eleventyConfig.addPassthroughCopy("src/docs/");
     // Copy 'scr/img/' to '_site/img/'
     // eleventyConfig.addPassthroughCopy("src/img/");
     // Markdown It Plugins - Italics and Bold accessibility and Footnotes

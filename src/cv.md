@@ -2,6 +2,8 @@
 layout: page.njk
 title: CV
 ---
+[Download CV as PDF](/docs/healy_cv.pdf)
+
 # Education
 **PhD, English, Rhetoric and Composition**, July 2021. Florida State University, Tallahassee, Florida
 - Dissertation: Tracing _Techne_: Distributed Histories of Invention, Creativity, and Text-Technologies in Rhetoric and Composition Scholarship from the 1990s
@@ -42,3 +44,57 @@ Phil Gates Award for Excellence in Written Communication, FSU, 2016-2020 ($4000)
 “Promise(s) and Peril(s) of Big Data: Historiography, Data Feminism, and Tracing Women of Color.” Tarez Samra Graban and Michael Healy. In _Rhetorica Rising: Advancing Feminist Rhetorical Methods and Methodologies_. Editors Eileen E. Schell, K.J. Rawson, Abby Long, Curtis J. Jewell, Sidney Turner, and Gabriella Wilson. Under review.
 
 “Institutional Matters: The Localized Conditions of WPA Labor.” Michael Neal, Katelyn Stark, Amy Cicchino, Michael Healy, and Kamila Albert. In _Making Administrative Work Visible: Data-Driven Approaches to Understanding the Labor of Writing Program Administration_. Editors: Leigh Graziano, Kay Halasek, Susan Miller-Cochran, Frank Napolitano, and Natalie Szymanski. May 2023.
+
+## Digital
+“Session F.09: Making Spaces for Student Voices with ePortfolios and Grading Contracts.” Sweetland Digital Rhetoric Collaborative
+
+“Alice Bertha Hoberg.” UNO Women’s Archive Project. Video Profile. Editor. Tammie M. Kennedy
+
+“A Start of Something New: The University of Omaha gets a New Campus.” UNO Women’s Archive Project. Contextual Multi-modal Essay. Editor Tammie M. Kennedy
+
+# Presentations
+## National and Regional Conferences
+“Curation, Data, and Feminist Rhetoric.” Panel Presentation. _Feminisms and Rhetorics_, 30 September-3 October, Atlanta GA.
+
+“Design Thinking, Collaboration, and Professional Writing.” Panel Presentation. _Conference on College Composition and Communication_, 15-18 February 2023, Chicago IL.
+
+“Tracing Impressions of Techne: Data Curation and Rhetorical History.” Panel Presentation. _Rhetoric Society of America Biennial Conference_, 26-29 May 2022, Baltimore MD.
+
+“Visualizing Historiography: A Data Curation Methodology.” Panel Presentation. _Rhetoric Society of America Biennial Conference_, 21-24 May 2020, Portland OR. (Accepted and canceled due to Covid-19)
+
+“Curating Advanced Composition: Challenging Commonplaces on Data and Writing.” Panel Presentation. _Conference on College Composition and Communication_, 25-28 March 2020, Milwaukee WI. (Accepted and canceled due to Covid-19)
+
+“Student Activism, Assemblage, and the History of Rhetoric.” Panel Presentation. _Feminisms and Rhetorics_, 13-16 November 2019, James Madison University, Harrisonburg VA
+
+“Graduate Teaching Assistants and Value Dispositions: Influences on Development as Composition Teachers.” _Qualitative Research Network: Conference on College Composition and Communication_, 13-16 March 2019, Pittsburgh PA
+
+“(Dis)Placed Invention: Chora, Creativity, and New Media.” _Research Network Forum: Conferences on College Composition and Communication_, 13-16 March 2019, Pittsburgh PA
+
+“The Efficacy of Play as an Organizational and Pedagogical Theory.” Panel Presentation. _South Atlantic Modern Language Association_, 3-5 November 2017, Westin Peachtree Plaza, Atlanta GA
+
+“Circulation, Narrative, and Human Rights: New Materialism meets Spectacular Rhetoric.” Panel Presentation. _Feminisms and Rhetorics_, 4-7 October 2017, The University of Dayton, Dayton OH
+
+“A Symbiotic (and Pedagogical) Relationship: Forging an Alliance between Creative Nonfiction and Composition.” Panel Presentation. _Conference on College Composition and Communication_, 15-18 March 2017, Oregon Convention Center, Portland, OR
+
+“A What/Who/What Pedagogy: Exploring Overlaps in the Teaching of Composition and Creative Writing.” _Qualitative Research Forum: Conference on College Composition and Communication_, 6-9 April 2016, George R. Brown Convention Center, Houston, TX
+
+“Celebrating Grandma: (Re)Making (or Appropriating?) Agency in the Archive.” Panel presentation. _Feminisms and Rhetorics_, 28-31 October 2015, Arizona State University, Tempe, AZ
+
+“Not the Center of the Universe: Displacing Genre in the Composition Classroom.” _Research Network Forum: Conference on College Composition and Communication_, 18-21 March 2015, Tampa Convention Center, FL
+
+## University and Local
+“Historiography, Hospitality, and Data.” Panelist, RSA Student Chapter Hospitality and Rhetoric Symposium. 28 May 2020
+
+“Teaching Invention in College Composition.” Invited Speaker, New Teaching Assistant Summer Training, FSU.,” 2 July 2019
+
+“Invention and Tutoring.” Invited Speaker, Reading and Writing Center, FSU. 24 October 2018
+
+“IRB Application Process.” Invited Speaker, Research Methods Graduate Seminar, FSU. 2 April 2018
+
+“Rubrics and Scoring Guides.” Invited Speaker, New Teaching Assistant Summer Training, FSU. 11 July 2017
+
+Panelist, Graduate Assistant Orientation Instructor of Record Panel, UNO. 17 August 2015.
+
+“Blackboard Assignments and Grading.” Invited Speaker, Teaching College Writing. UNO. 26 August 2015
+
+“Teaching Reading in the Writing Center: Why and How.” UNO Writing Center, Presentation. UNO 3 April 2015
