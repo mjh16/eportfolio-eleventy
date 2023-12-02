@@ -142,6 +142,9 @@ Pedagogy and Theatre of the Oppressed, annual conference. Volunteer. UNO Summer 
 
 # Professional Affiliations
 Rhetoric Society of America, 2018-present
+
 Coalition of Feminist Scholars in the History of Rhetoric and Composition, 2015-present
+
 National Council of Teachers of English (NCTE), 2014-present
+
 Conference on College Composition and Communication (CCCC), 2015-present

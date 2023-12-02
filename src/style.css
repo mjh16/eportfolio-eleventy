@@ -98,7 +98,7 @@ a:link {
 
 nav ul {
     list-style-type: none;
-    margin: 1rem auto 0;
+    margin: auto 1em;
     text-align: right;
 }
 
@@ -106,7 +106,8 @@ nav li {
     font-size: 1em;
     display: inline;
     margin: 0.5em;
-    align-self: flex-end;
+    align-content: flex-end;
+    text-align: right;
 }
 
 nav p {
