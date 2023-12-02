@@ -98,3 +98,50 @@ Panelist, Graduate Assistant Orientation Instructor of Record Panel, UNO. 17 Aug
 “Blackboard Assignments and Grading.” Invited Speaker, Teaching College Writing. UNO. 26 August 2015
 
 “Teaching Reading in the Writing Center: Why and How.” UNO Writing Center, Presentation. UNO 3 April 2015
+
+# Service
+## Institutional Service at Western Kentucky University
+“You, Me, and Chat GPT.” With Daniel Liddle. Spring 2023 Department of English Colloquium.
+
+AI Pedagogy Chats with Daniel Liddle. Fall 2023 Department of English.
+
+Writing and Research Group, Potter College of Arts and Letters, Western Kentucky University. Facilitator Spring 2023 - Present.
+
+Résumé and CV Graduate Student Workshop, WKU Department of English. Volunteer. October 20th 2023.
+
+Designing an ePortfolio Graduate Student Workshop, WKU Department of English. Volunteer. November 3rd 2023.
+
+Social Committee. Department of English 2023-2024.
+
+Faculty Development Committee. Department of English. 2023-2024.
+
+## Service to the Discipline
+Coalition of Feminist Scholars in the History of Rhetoric and Composition. Digital Archivist and Historian. Fall 2022 - Present.
+
+## Curriculum Development
+ENG 506: Introduction to Professional and Technical Writing, at Western Kentucky University. New graduate course which provides a foundation in the core theories and practices of technical and professional writing.
+
+ENG 300: Writing in Design Disciplines, at Western Kentucky University. Developed a special section of this writing in the disciplines course focused on students in design focused disciplines such as art, user experience and design, computer science, and marketing and communications. Reflects the unique research, knowledges, and practices of these disciplines within an academic context.
+
+Undergraduate Certificate in Professional Writing, at Western Kentucky University. Collaborated on a new 15 credit hour undergraduate certificate to offer specialized practice and credentialing for students across the university. Starts fall 2023.
+
+## University and Department
+Rhetoric Society of America FSU Student Chapter. Member Fall 2016-Summer 2021.
+
+Graduate English Student Organization Executive Board. Rhetoric and Composition Liaison. FSU. Fall 2018-Spring 2019.
+
+Graduate English Student Organization Executive Board. Administration Liaison. FSU. Fall 2019-Spring 2020.
+
+Writing Center Subcommittee to plan 2015 Nebraska Writing Center Consortium Meeting. Spring 2015.
+
+Subcommittee for Program Evaluation, First-Year Writing Committee. UNO. 2015-2016.
+
+Subcommittee for Professional Development, First-Year Writing Committee. UNO. Fall 2015.
+
+Pedagogy and Theatre of the Oppressed, annual conference. Volunteer. UNO Summer 2014.
+
+# Professional Affiliations
+Rhetoric Society of America, 2018-present
+Coalition of Feminist Scholars in the History of Rhetoric and Composition, 2015-present
+National Council of Teachers of English (NCTE), 2014-present
+Conference on College Composition and Communication (CCCC), 2015-present
