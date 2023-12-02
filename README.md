@@ -9,11 +9,16 @@ So I've been working to update my ePortfolio and I'm not using [@11ty](https://w
 - [x] CV
 - [x] About me
 - [x] Now
- - Current teaching
- - Service
+  - [x] Teaching
+  - [x] Service
+  - [ ] Update for Winter term
 - [x] Teaching
- - Teaching philosophy
- - Past courses brief description
+  - [x] Teaching philosophy
+  - [x] Past courses brief description
+- [ ] Research
+  - [ ] Agenda
+  - [ ] Recent Publications/Featured Research
+  - [ ] Recent Presentations
 - [ ] Writing
 - [ ] Course archive
 - [ ] Blog?
