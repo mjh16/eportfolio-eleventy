@@ -39,9 +39,9 @@ Phil Gates Award for Excellence in Written Communication, FSU, 2016-2020 ($4000)
 
 # Publications
 ## Refereed
-“Interventions, Ecologies, Reflections: Reframing Student Resistances with Design Thinking.” Jessi Thomsen and Michael J. Healy. *Programmatic Perspectives*, special issue, Fall 2023. Forthcoming
+[“Interventions, Ecologies, Reflections: Reframing Student Resistances with Design Thinking.”](https://programmaticperspectives.cptsc.org/index.php/jpp/article/view/51) Jessi Thomsen and Michael J. Healy. *Programmatic Perspectives*, vol. 14, no. 2. 2023.
 
-“Promise(s) and Peril(s) of Big Data: Historiography, Data Feminism, and Tracing Women of Color.” Tarez Samra Graban and Michael Healy. In _Rhetorica Rising: Advancing Feminist Rhetorical Methods and Methodologies_. Editors Eileen E. Schell, K.J. Rawson, Abby Long, Curtis J. Jewell, Sidney Turner, and Gabriella Wilson. Under review.
+“Promise(s) and Peril(s) of Big Data: Historiography, Data Feminism, and Tracing Women of Color.” Tarez Samra Graban and Michael Healy. In _Rhetorica Rising: Advancing Feminist Rhetorical Methods and Methodologies_. Editors Eileen E. Schell, K.J. Rawson, Abby Long, Curtis J. Jewell, Sidney Turner, and Gabriella Wilson. Forthcoming.
 
 “Institutional Matters: The Localized Conditions of WPA Labor.” Michael Neal, Katelyn Stark, Amy Cicchino, Michael Healy, and Kamila Albert. In _Making Administrative Work Visible: Data-Driven Approaches to Understanding the Labor of Writing Program Administration_. Editors: Leigh Graziano, Kay Halasek, Susan Miller-Cochran, Frank Napolitano, and Natalie Szymanski. May 2023.
 
@@ -54,6 +54,8 @@ Phil Gates Award for Excellence in Written Communication, FSU, 2016-2020 ($4000)
 
 # Presentations
 ## National and Regional Conferences
+"Charting Rhetoric: Topic Modeling and Data Visualization." _Rhetoric Society of America Biennial Conference_, 23-26 May 2024, Denver CO.
+
 “Curation, Data, and Feminist Rhetoric.” Panel Presentation. _Feminisms and Rhetorics_, 30 September-3 October, Atlanta GA.
 
 “Design Thinking, Collaboration, and Professional Writing.” Panel Presentation. _Conference on College Composition and Communication_, 15-18 February 2023, Chicago IL.
@@ -101,6 +103,10 @@ Panelist, Graduate Assistant Orientation Instructor of Record Panel, UNO. 17 Aug
 
 # Service
 ## Institutional Service at Western Kentucky University
+Sigma Tau Delta Faculty Advisor. Fall 2024-Current.
+
+PCAL Digital Humanities Working Group. Fall 2023-Current.
+
 “You, Me, and Chat GPT.” With Daniel Liddle. Spring 2023 Department of English Colloquium.
 
 AI Pedagogy Chats with Daniel Liddle. Fall 2023 Department of English.
@@ -111,12 +117,12 @@ Résumé and CV Graduate Student Workshop, WKU Department of English. Volunteer.
 
 Designing an ePortfolio Graduate Student Workshop, WKU Department of English. Volunteer. November 3rd 2023.
 
-Social Committee. Department of English 2023-2024.
+Social Committee. Department of English 2023-current.
 
-Faculty Development Committee. Department of English. 2023-2024.
+Faculty Development Committee. Department of English. 2023-current.
 
 ## Service to the Discipline
-Coalition of Feminist Scholars in the History of Rhetoric and Composition. Digital Archivist and Historian. Fall 2022 - Present.
+Coalition of Feminist Scholars in the History of Rhetoric and Composition. Digital Archivist and Historian. Fall 2022 - Current.
 
 ## Curriculum Development
 ENG 506: Introduction to Professional and Technical Writing, at Western Kentucky University. New graduate course which provides a foundation in the core theories and practices of technical and professional writing.

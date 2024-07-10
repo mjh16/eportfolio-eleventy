@@ -22,6 +22,8 @@ Finally, I intentionally seek to create classrooms that work for social justice.
 
 # Courses Taught
 ## Western Kentucky University
+**ENG 506** - Introduction to Professional and Technical Writing: A asynchronous online graduate course that serves as a introduction to the field of professional and technical writing. Focused on scholarship of the field, with students assembling an ePortfolio of their academic and professional writing.
+
 **ENG 300** - Writing in the Disciplines: A research and writing class utilizing a teaching-for-transfer approach to college writing. Students interrogate their discourse communities, perform relevant research, and respond in relevant genres.
 
 **ENG 306** - Business Writing: An asynchronous online class focusing on business writing genres and practices,project management, and distance collaboration.
